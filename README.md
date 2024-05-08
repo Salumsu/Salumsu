@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salumsu
-- 👀 I’m interested in Well designed, User-friendly and responsive websites
-- 🌱 I’m currently learning React, Redux and React-Redux
-- 💞️ I’m looking to collaborate on front end projects, especially react projects.
+- 👀 I build solutions with compelling websites.
+- 🌱 I’m currently learning Next JS, Auth JS and TRPC.
+- 💞️ I’m looking to collaborate on full stack projects, especially next js projects.
 - 📫 A message or email can be kindly submitted to me at hxhmichaelhxh@gmail.com.
 
 <!---
